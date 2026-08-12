@@ -1,0 +1,6 @@
+{
+  "name": "EfraHope AI Builder",
+  "description": "AI-powered application builder platform — Describe it. Build it. Make it yours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
